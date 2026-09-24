@@ -1,0 +1,11 @@
+{
+  "input": ".",
+  "network": "VG",
+  "station": "SAPL",
+  "location": "00",
+  "channel_map": {
+    "DPE": "DPE",
+    "DPN": "DPN",
+    "DPZ": "DPZ"
+  }
+}
